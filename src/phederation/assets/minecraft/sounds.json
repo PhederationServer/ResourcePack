@@ -1,0 +1,4 @@
+{
+    "entity.firework_rocket.launch": {"sounds": [], "replace": true},
+    "entity.firework_rocket.shoot": {"sounds": [], "replace": true}
+}

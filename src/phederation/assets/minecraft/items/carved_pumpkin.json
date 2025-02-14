@@ -1,0 +1,63 @@
+{
+    "model":
+    {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback":
+        {
+            "type": "model",
+            "model": "block/carved_pumpkin"
+        },
+        "cases":
+        [
+            {
+                "when": "fwog",
+                "model":
+                {
+                    "type": "model",
+                    "model": "custom:block/carved_pumpkin/fwog"
+                }
+            },
+            {
+                "when": "fwog_googly",
+                "model":
+                {
+                    "type": "model",
+                    "model": "custom:block/carved_pumpkin/fwog_googly"
+                }
+            },
+            {
+                "when": "fwog_googly_chonk",
+                "model":
+                {
+                    "type": "model",
+                    "model": "custom:block/carved_pumpkin/fwog_googly_chonk"
+                }
+            },
+            {
+                "when": "trophy_gold",
+                "model":
+                {
+                    "type": "model",
+                    "model": "custom:block/carved_pumpkin/trophy_gold"
+                }
+            },
+            {
+                "when": "trophy_silver",
+                "model":
+                {
+                    "type": "model",
+                    "model": "custom:block/carved_pumpkin/trophy_silver"
+                }
+            },
+            {
+                "when": "trophy_bronze",
+                "model":
+                {
+                    "type": "model",
+                    "model": "custom:block/carved_pumpkin/trophy_bronze"
+                }
+            }
+        ]
+    }
+}
