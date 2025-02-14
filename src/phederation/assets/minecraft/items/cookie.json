@@ -1,0 +1,23 @@
+{
+    "model":
+    {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback":
+        {
+            "type": "model",
+            "model": "item/cookie"
+        },
+        "cases":
+        [
+            {
+                "when": "gingerbread",
+                "model":
+                {
+                    "type": "model",
+                    "model": "custom:item/cookie/gingerbread"
+                }
+            }
+        ]
+    }
+}
