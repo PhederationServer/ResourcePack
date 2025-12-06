@@ -1,7 +1,8 @@
 {
 	"pack":
 	{
-		"pack_format": 46,
-		"description": "Phederation 250214b"
+		"min_format": 69,
+		"max_format": 69,
+		"description": "Phederation 251206a"
 	}
 }
