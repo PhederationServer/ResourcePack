@@ -1,0 +1,74 @@
+{
+  "music_disc.phederationten": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "custom:records/phederationten",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.phederationten2m32": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "custom:records/phederationten2m32",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.km_deck": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "custom:records/km_deck",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.km_jingle": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "custom:records/km_jingle",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.km_rap": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "custom:records/km_rap",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.km_tree": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "custom:records/km_tree",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.km_wish": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "custom:records/km_wish",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.bgc_chips": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "custom:records/bgc_chips",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -17,6 +17,30 @@
                     "type": "model",
                     "model": "custom:item/cookie/gingerbread"
                 }
+            },
+            {
+                "when": "sbm1",
+                "model":
+                {
+                    "type": "model",
+                    "model": "custom:item/cookie/sbm1"
+                }
+            },
+            {
+                "when": "sbm2",
+                "model":
+                {
+                    "type": "model",
+                    "model": "custom:item/cookie/sbm2"
+                }
+            },
+            {
+                "when": "sbm3",
+                "model":
+                {
+                    "type": "model",
+                    "model": "custom:item/cookie/sbm3"
+                }
             }
         ]
     }
