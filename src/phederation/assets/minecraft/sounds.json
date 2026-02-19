@@ -1,0 +1,24 @@
+{
+  "entity.armadillo.hurt_reduced": {
+    "sounds": [
+      {
+        "name": "mob/armadillo/hurt_reduced1",
+        "attenuation_distance": 4
+      },
+      {
+        "name": "mob/armadillo/hurt_reduced2",
+        "attenuation_distance": 4
+      },
+      {
+        "name": "mob/armadillo/hurt_reduced3",
+        "attenuation_distance": 4
+      },
+      {
+        "name": "mob/armadillo/hurt_reduced4",
+        "attenuation_distance": 4
+      }
+    ],
+    "subtitle": "subtitles.entity.armadillo.hurt_reduced",
+    "replace": "true"
+  }
+}
