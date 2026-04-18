@@ -1,0 +1,21 @@
+{
+  "advancements.adventure.spyglass_at_dragon.description": "Look at the Ender Dargon through a Spyglass",
+  "advancements.end.dragon_breath.description": "Collect Dargon's Breath in a Glass Bottle",
+  "advancements.end.dragon_egg.description": "Hold the Dargon Egg",
+  "advancements.end.respawn_dragon.description": "Respawn the Ender Dargon",
+  "block.minecraft.dragon_egg": "Dargon Egg",
+  "block.minecraft.dragon_head": "Dargon Head",
+  "block.minecraft.dragon_wall_head": "Dargon Wall Head",
+  "death.attack.dragonBreath": "%1$s was roasted in dargon's breath",
+  "death.attack.dragonBreath.player": "%1$s was roasted in dargon's breath by %2$s",
+  "entity.minecraft.dragon_fireball": "Dargon Fireball",
+  "entity.minecraft.ender_dragon": "Ender Dargon",
+  "item.minecraft.dragon_breath": "Dargon's Breath",
+  "item.minecraft.ender_dragon_spawn_egg": "Ender Dargon Spawn Egg",
+  "subtitles.entity.ender_dragon.ambient": "Dargon roars",
+  "subtitles.entity.ender_dragon.death": "Dargon dies",
+  "subtitles.entity.ender_dragon.flap": "Dargon flaps",
+  "subtitles.entity.ender_dragon.growl": "Dargon growls",
+  "subtitles.entity.ender_dragon.hurt": "Dargon hurts",
+  "subtitles.entity.ender_dragon.shoot": "Dargon shoots"
+}
